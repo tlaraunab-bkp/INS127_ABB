@@ -96,5 +96,6 @@
     <File Name="main.c"/>
     <File Name="NodoArbol.h"/>
     <File Name="ABB.h"/>
+    <File Name="utilABB.h"/>
   </VirtualDirectory>
 </CodeLite_Project>
